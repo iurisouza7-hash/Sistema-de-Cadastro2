@@ -8,7 +8,7 @@ Projeto de um sistema de cadastro de usuários desenvolvido em Python, utilizand
 ## 🚀 Funcionalidades
 
 * ➕ Adicionar usuário
-* 📋 Listar usuários *(em desenvolvimento)*
+* 📋 Listar usuários 
 * ✏️ Editar usuário *(em desenvolvimento)*
 * 🗑️ Deletar usuário *(em desenvolvimento)*
 
@@ -100,9 +100,6 @@ Este projeto foi desenvolvido com o objetivo de praticar:
 
 ## 🔧 Melhorias futuras
 
-* 📋 Listar usuários
-* ✏️ Editar usuários
-* 🗑️ Deletar usuários
 * 🔍 Buscar usuário por nome
 * 🔐 Criptografar senha
 * 🖥️ Criar interface gráfica
